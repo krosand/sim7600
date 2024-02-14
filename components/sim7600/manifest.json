@@ -1,0 +1,6 @@
+{
+  "name": "SIM7600 Component",
+  "documentation": "https://github.com/krosand/sim7600",
+  "codeowners": ["@krosand"],
+  "version": "1.0"
+}
